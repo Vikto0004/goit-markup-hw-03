@@ -131,7 +131,8 @@ img{
 
 ._section{
     display: flex;
-    gap: 24px;    
+    gap: 24px; 
+    flex-basis: calc((100% - 72px) / 4);    
 }
 ._strategy:nth-child(1) {
     width: calc((100% - 72px) / 4); 
