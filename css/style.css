@@ -17,10 +17,8 @@ img{
     margin: 0 auto;
     padding: 0 15px;
 }
-.container_{
-    width: 1158px;
-    margin: 0 auto;
-    padding: 0 15px;
+.footer .container{
+    display: block;
 }
 .navigate{
     display: flex;
