@@ -131,10 +131,9 @@ img{
 
 ._section{
     display: flex;
-    gap: 24px; 
-    flex-basis: calc((100% - 72px) / 4);    
+    gap: 24px;    
 }
-._strategy:nth-child(1) {
+._section ._strategy  {
     width: calc((100% - 72px) / 4); 
 }
 .strategy{
