@@ -133,7 +133,7 @@ img{
     display: flex;
     gap: 24px;    
 }
-._strategy ._section{
+._strategy:nth-child(1) {
     width: calc((100% - 72px) / 4); 
 }
 .strategy{
