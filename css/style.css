@@ -17,6 +17,11 @@ img{
     margin: 0 auto;
     padding: 0 15px;
 }
+.container_{
+    width: 1158px;
+    margin: 0 auto;
+    padding: 0 15px;
+}
 .navigate{
     display: flex;
     align-items: center;
