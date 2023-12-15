@@ -6,7 +6,10 @@ body{
 img{
     display: block;
 }
-
+ul{
+    margin: 0;
+    padding: 0;
+}
 
 .header{
     border-bottom: 1px solid #e7e9fc;
