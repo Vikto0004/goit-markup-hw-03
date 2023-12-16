@@ -43,9 +43,7 @@ img{
     letter-spacing: 0.54px;
     color: #4d5ae5;
     text-transform: uppercase;
-    margin-left: 141px;
     margin-top: 24px;
-    margin-right: 76px;
 }
 
 .main-logo__color{
@@ -76,7 +74,7 @@ img{
 .header-nav__list{
     display: flex;
     gap: 40px;
-    margin-left: 0px;
+    margin-left: 76px;
     margin-top: 24px;
 }
 
@@ -98,8 +96,8 @@ img{
 .header-contacts__list{
     display: flex;
     gap: 40px;
-    margin-left: 332px;
     margin-top: 24px;
+    margin-left: 332px;
 }
 
 .header-contacts__link{
@@ -131,8 +129,8 @@ img{
     letter-spacing: 1.12px;
     color: #FFFFFF;
     text-align: center;
-    max-width: 496px;
-    margin-left: 472px;
+    margin-left: 316px;
+    margin-right: 316px;
 }
 
 .hero-btn{
@@ -146,7 +144,7 @@ img{
     border: none;
     border-radius: 4px; 
     cursor: pointer;
-    margin-left: 636px;
+    margin-left: 480px;
     margin-top: 48px;
 }
 
@@ -177,8 +175,6 @@ img{
 .benefits-list{
     display: flex;
     gap: 24px;
-    margin-left: 141px;
-    margin-right: 141px;
 }
 
 .benefits-item{
@@ -214,8 +210,7 @@ img{
 .team-list{
     display: flex;
     gap: 24px;
-    margin-left: 141px;
-    margin-right: 141px;
+
 }
 
 .team-item{
@@ -262,8 +257,6 @@ img{
     flex-wrap: wrap;
     column-gap: 24px;
     row-gap: 48px; 
-    margin-left: 141px;
-    margin-right: 141px;
 }
 
 .portfolio-item{
@@ -292,16 +285,9 @@ img{
     padding: 100px 0;
 }
 
-/*.footer-logo .main-logo__color{
-    color: #f4f4fd;
-    display: inline-block; 
-    margin-bottom: 16px; 
-}*/
-
 .footer-descr{
     color: #F4F4FD;
     max-width: 264px;
-    margin-left: 141px;
 }
 
 .footer-logo{
@@ -312,9 +298,7 @@ img{
     letter-spacing: 0.54px;
     color: #4d5ae5;
     text-transform: uppercase;
-    margin-left: 141px;
-    margin-top: 24px;
-    margin-right: 76px;
+    margin-left: 0px;
     display: inline-block; 
     margin-bottom: 16px; 
 }
