@@ -52,8 +52,6 @@ img{
 
 .container{
     width: 1158px;
-    margin: 0 auto;
-    padding: 0 15px;
 }
 
 /*          HEADER          */
@@ -65,6 +63,8 @@ img{
 .header-container{
     display: flex;
     height: 72px;
+    margin: 0 ;
+    padding: 0 ;
 }
 
 .header-nav{
