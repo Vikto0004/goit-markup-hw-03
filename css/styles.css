@@ -44,6 +44,7 @@ img{
     color: #4d5ae5;
     text-transform: uppercase;
     margin-top: 24px;
+    margin-right: 76px 
 }
 
 .main-logo__color{
@@ -74,7 +75,6 @@ img{
 .header-nav__list{
     display: flex;
     gap: 40px;
-    margin-left: 76px;
     margin-top: 24px;
 }
 
@@ -131,6 +131,7 @@ img{
     text-align: center;
     margin-left: 316px;
     margin-right: 316px;
+    max-width: 496px;
 }
 
 .hero-btn{
