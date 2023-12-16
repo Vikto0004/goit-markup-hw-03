@@ -63,9 +63,6 @@ img{
 .header-nav__list{
     display: flex;
     gap: 40px;
-}
-
-.header-nav__item{
     padding: 24px 0;
 }
 
