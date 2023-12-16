@@ -43,13 +43,7 @@ img{
     letter-spacing: 0.54px;
     color: #4d5ae5;
     text-transform: uppercase;
-   
-    margin-right: 76px;
-    box-sizing: border-box;
-    display: inline-flex;
-    height: 24px;
-    align-items: center;
-    flex-shrink: 0;    
+    margin: 24px 1169px 24px 156px;
 }
 
 .main-logo__color{
