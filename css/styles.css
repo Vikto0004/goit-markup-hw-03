@@ -43,7 +43,12 @@ img{
 .container{
     width: 1158px;
     margin: 0 auto;
-    padding: 0 15px
+    padding: 0 15px;
+    max-width:0 ; 
+    padding-left: 0;  
+    padding-right: 0;  
+    margin-left: 0;  
+    margin-right: 0; 
 }
 
 /*          HEADER          */
