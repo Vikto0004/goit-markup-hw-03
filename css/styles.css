@@ -46,8 +46,6 @@ img{
     margin-left: 141px;
     margin-top: 24px;
     margin-right: 76px;
-    display: inline-block;
-    margin-bottom: 16px;
 }
 
 .main-logo__color{
@@ -294,14 +292,33 @@ img{
     padding: 100px 0;
 }
 
-.footer-logo .main-logo__color{
+/*.footer-logo .main-logo__color{
     color: #f4f4fd;
     display: inline-block; 
     margin-bottom: 16px; 
-}
+}*/
 
 .footer-descr{
     color: #F4F4FD;
     max-width: 264px;
     margin-left: 141px;
+}
+
+.footer-logo{
+    font-family: 'Raleway', sans-serif;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 1.17;
+    letter-spacing: 0.54px;
+    color: #4d5ae5;
+    text-transform: uppercase;
+    margin-left: 141px;
+    margin-top: 24px;
+    margin-right: 76px;
+    display: inline-block; 
+    margin-bottom: 16px; 
+}
+
+.main-footer-logo__color{
+    color: #f4f4fd;
 }
