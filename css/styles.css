@@ -289,12 +289,16 @@ img{
 /*          FOOTER          */
 .footer{
     background-color: #2E2F42;
+    padding: 100px 0;
 }
 
 .footer-logo .main-logo__color{
     color: #f4f4fd;
+    display: inline-block; 
+    margin-bottom: 16px; 
 }
 
 .footer-descr{
     color: #F4F4FD;
+    max-width: 264px;
 }
