@@ -64,6 +64,7 @@ img{
 
 .header-container{
     display: flex;
+    height: 72px;
 }
 
 .header-nav{
