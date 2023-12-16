@@ -45,7 +45,9 @@ img{
     text-transform: uppercase;
     margin-left: 141px;
     margin-top: 24px;
-    margin-right: 76px
+    margin-right: 76px;
+    display: inline-block;
+    margin-bottom: 16px;
 }
 
 .main-logo__color{
