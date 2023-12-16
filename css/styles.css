@@ -43,8 +43,8 @@ img{
     letter-spacing: 0.54px;
     color: #4d5ae5;
     text-transform: uppercase;
-    margin-left: 156px;
-    margin-top: 24px;
+    margin-left: 0px;
+    margin-top: 0px;
 }
 
 .main-logo__color{
@@ -53,25 +53,16 @@ img{
 
 .container{
     width: 1158px;
-    margin: 0;
-    padding: 0;
 }
 
 /*          HEADER          */
 .header{
     border-bottom: 1px solid #e7e9fc;
     height: 72px;
-    margin: 0;
-    padding: 0;
-    border: 0;
 }
 
 .header-container{
-    position: absolute;
     display: flex;
-    margin: 0;
-    padding: 0;
-    border: 0;
 }
 
 .header-nav{
@@ -82,8 +73,8 @@ img{
 .header-nav__list{
     display: flex;
     gap: 40px;
-    margin-left: 76px;
-    margin-top: 24px;
+    margin-left: 0px;
+    margin-top: 0px;
 }
 
 .header-nav__link{
