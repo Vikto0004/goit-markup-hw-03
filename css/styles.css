@@ -61,6 +61,9 @@ img{
 .header{
     border-bottom: 1px solid #e7e9fc;
     height: 72px;
+    margin: 0;
+    padding: 0;
+    border: 0;
 }
 
 .header-container{
@@ -68,6 +71,7 @@ img{
     height: 72px;
     margin: 0;
     padding: 0;
+    border: 0;
 }
 
 .header-nav{
@@ -78,6 +82,7 @@ img{
 .header-nav__list{
     display: flex;
     gap: 40px;
+    margin-left: 76px;
     margin-top: 24px;
 }
 
