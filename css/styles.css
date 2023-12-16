@@ -68,7 +68,7 @@ img{
 .header-nav__link{
     font-weight: 500;
     color: #2e2f42;
-    padding-top: 24px;
+    padding: 24px 0;
 }
 
 .header-nav__link:hover,
