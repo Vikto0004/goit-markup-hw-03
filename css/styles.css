@@ -63,7 +63,10 @@ img{
 .header-nav__list{
     display: flex;
     gap: 40px;
-    padding: 24px 0;
+}
+
+.header-nav__item{
+    padding-top: 24px;
 }
 
 .header-nav__link{
