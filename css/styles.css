@@ -43,8 +43,9 @@ img{
     letter-spacing: 0.54px;
     color: #4d5ae5;
     text-transform: uppercase;
-    margin-left: 156px;
+    margin-left: 141px;
     margin-top: 24px;
+    margin-right: 76px
 }
 
 .main-logo__color{
@@ -53,6 +54,8 @@ img{
 
 .container{
     width: 1440px;
+    margin: 0 auto;
+    padding: 0 15px;
 }
 
 /*          HEADER          */
@@ -73,7 +76,7 @@ img{
 .header-nav__list{
     display: flex;
     gap: 40px;
-    margin-left: 76px;
+    margin-left: 0px;
     margin-top: 24px;
 }
 
