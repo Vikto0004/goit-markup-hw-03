@@ -43,7 +43,6 @@ img{
     letter-spacing: 0.54px;
     color: #4d5ae5;
     text-transform: uppercase;
-    margin-top: 24px;
     margin-right: 76px 
 }
 
@@ -60,11 +59,12 @@ img{
 /*          HEADER          */
 .header{
     border-bottom: 1px solid #e7e9fc;
-    height: 72px;
+    display: flex;
 }
 
 .header-container{
     display: flex;
+    align-items: center;
 }
 
 .header-nav{
@@ -75,7 +75,7 @@ img{
 .header-nav__list{
     display: flex;
     gap: 40px;
-    margin-top: 24px;
+    padding: 24px 0px;
 }
 
 .header-nav__link{
@@ -91,13 +91,12 @@ img{
 
 .header-contacts{
     font-style: normal;
+    margin-left: auto;
 }
 
 .header-contacts__list{
     display: flex;
     gap: 40px;
-    margin-top: 24px;
-    margin-left: 332px;
 }
 
 .header-contacts__link{
@@ -113,8 +112,6 @@ img{
 /*          HERO            */
 .hero{
     background-color: #2E2F42;
-    width: 1440px;
-    height: 600px;
     padding: 188px 0
 }
 
@@ -145,7 +142,8 @@ img{
     border: none;
     border-radius: 4px; 
     cursor: pointer;
-    margin-left: 480px;
+    margin-left: auto;
+    margin-right: auto;
     margin-top: 48px;
 }
 
